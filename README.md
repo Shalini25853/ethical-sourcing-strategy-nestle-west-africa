@@ -1,4 +1,4 @@
-# ethical-sourcing-strategy-nestle-west-africa
+# Ethical-sourcing-strategy-nestle-west-africa
 Global sourcing strategy and stakeholder engagement plan for Nestlé’s cocoa supply chain in West Africa, focused on eliminating child labor and aligning ethical standards with local realities.
 # 🍫 Ethical Sourcing Strategy – Nestlé Cocoa Supply Chain (West Africa)
 
