@@ -1,12 +1,12 @@
 # Ethical-sourcing-strategy-nestle-west-africa
 Global sourcing strategy and stakeholder engagement plan for Nestlé’s cocoa supply chain in West Africa, focused on eliminating child labor and aligning ethical standards with local realities.
-# 🍫 Ethical Sourcing Strategy – Nestlé Cocoa Supply Chain (West Africa)
+# Ethical Sourcing Strategy – Nestlé Cocoa Supply Chain (West Africa)
 
 This project outlines a global sourcing and stakeholder engagement strategy for **Nestlé**, with a focus on ethically transforming its cocoa supply chain in **Ghana** and **Côte d’Ivoire**. It addresses operational, cultural, and regulatory challenges in eliminating child labor and aligning global standards with local realities.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To help Nestlé meet its goal of **eliminating child labor by 2025** through:
 - Culturally sensitive implementation of global policies
@@ -15,7 +15,7 @@ To help Nestlé meet its goal of **eliminating child labor by 2025** through:
 
 ---
 
-## 🔍 Key Strategic Challenges
+##  Key Strategic Challenges
 
 - **Cultural mismatch**: Top-down KPIs vs local norms
 - **Lack of localization**: Inappropriate metric systems
@@ -24,7 +24,7 @@ To help Nestlé meet its goal of **eliminating child labor by 2025** through:
 
 ---
 
-## 🧠 Frameworks Applied
+##  Frameworks Applied
 
 - **Kotter’s 8-Step Change Management**
 - **Triple Bottom Line (People, Planet, Profit)**
@@ -33,7 +33,7 @@ To help Nestlé meet its goal of **eliminating child labor by 2025** through:
 
 ---
 
-## ✅ Strategic Solutions Proposed
+## Strategic Solutions Proposed
 
 1. **Local Stakeholder Council**: Involving farmers, NGOs, and Nestlé reps in sourcing decisions
 2. **CLMRS Expansion**: Scalable monitoring/remediation system for child labor
@@ -43,13 +43,13 @@ To help Nestlé meet its goal of **eliminating child labor by 2025** through:
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `Team 2 Strategic Global Management Presentation.pdf` – Full strategy presentation deck
 
 ---
 
-## 🧾 Business & Social Impact
+##  Business & Social Impact
 
 - Helps Nestlé maintain ESG ratings and investor confidence
 - Protects brand equity through ethical transformation
@@ -57,7 +57,7 @@ To help Nestlé meet its goal of **eliminating child labor by 2025** through:
 
 ---
 
-## 🏷️ Tags
+## Tags
 
 `#sustainability` `#ethical-sourcing` `#child-labor`  
 `#cocoa-supply-chain` `#esg` `#stakeholder-strategy` `#global-management`
